@@ -3,7 +3,7 @@
 // @namespace    http://your-namespace.org
 // @version      1.0
 // @description  Add hyperlinks to text selected by mouse double click or selection and open the link on click
-// @author       Roy Cai
+// @author       Roy Cai, Richard Fan
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
